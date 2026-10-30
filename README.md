@@ -1,4 +1,4 @@
-# Comparacao de Algoritmos de Ordenacao
+# Comparação de Algoritmos de Ordenacao
 
 Trabalho da AV2 para computação paralela e concorrente. É um projeto em Java para comparar o desempenho de quatro algoritmos de ordenacao nas versoes serial e paralela. O programa testa diferentes tamanhos e distribuicoes de dados, verifica se cada algoritmo ordenou corretamente e salva os tempos em CSV. Um script em Python resume os resultados e gera graficos.
 
